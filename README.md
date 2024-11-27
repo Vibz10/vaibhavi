@@ -1,3 +1,3 @@
 # vaibhavi
-this is my  github repository
+this is my first github repository
 author-vaibhavi
